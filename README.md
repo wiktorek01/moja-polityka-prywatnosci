@@ -44,3 +44,7 @@
     </main>
 </body>
 </html>
+git clone https://github.com/wiktorek01/wiktorek01.github.io
+cd wiktorek01.github.io
+
+echo "Hello World" > index.html
